@@ -1,0 +1,2 @@
+# SlotGameiOS
+CodeWithChris SlotGame challenge. 
